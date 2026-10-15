@@ -4,9 +4,9 @@
 # Site-wide identity, links, appearance, and feature switches live here.
 # Content pages remain independent Markdown files inside content/.
 
-name = "Your Name"
+name = "Jessie Chen"
 title = "PhD Student in Applied Mathematics"
-institution = "Your University"
+institution = "North Carolina State University"
 department = "Department of Mathematics"
 email = "you@university.edu"
 location = "City, State"
