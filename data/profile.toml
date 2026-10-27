@@ -17,15 +17,15 @@ avatar_alt = "Profile portrait"
 about = "I am a graduate student interested in applied mathematics and scientific computing. My work focuses on developing scalable computational methods for challenging problems in science and engineering."
 
 education = [
-  "Ph.D. in Applied Mathematics, Your University (expected 20XX)",
-  "M.S. in Mathematics, Previous University (20XX)"
+  "Ph.D. in Applied Mathematics, North Carolina State University (expected 2027)",
+  "M.S. in Applied Mathematics, North Carolina State University (2024)"
 ]
 
 research_interests = [
   "Numerical linear algebra",
   "Scientific computing",
   "Optimization",
-  "Randomized algorithms"
+  "Randomized algorithms","Machine Learning"
 ]
 
 # PDF shown as a navigation tab. Replace static/files/cv.pdf with your CV.
@@ -41,8 +41,8 @@ enable_back_to_top = true
 show_selected_publications = true
 selected_publications_count = 3
 show_home_attribution = true
-attribution_name = "Harshit Bhatt"
-attribution_url = "https://bhattharshit.github.io/"
+attribution_name = "Jessie Chen"
+attribution_url = "https://jchen228.github.io/"
 
 [appearance]
 # Choose circle or square.
