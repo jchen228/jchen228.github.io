@@ -4,15 +4,15 @@ weight: 40
 description: "Invited talks, conference presentations, seminars, and posters."
 ---
 
-## 20XX
+## 2026
 
 **A Sample Research Talk**  
-Example Conference, City, State
+SIAM MDS 2026, Salt Lake City, Utah
 
 **A Seminar on Scientific Computing**  
 Departmental Seminar, Your University
 
-## 20XY
+## 2025
 
 **A Sample Poster Presentation**  
 Example Workshop, City, State
